@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<p id="zzx">Use this area to provide additional information.</p>
+<script>
+    $('#zzx').ready(function () {
+            $.notify("Testing on notify JS", "success");
+    });
+</script>
