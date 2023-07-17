@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "\\Controllers",
+    "\\Models",
+    "\\Models\\Exercise",
+    "\\Models\\HelloWorld",
+    "\\Scripts",
+    "\\Views",
+    "\\Views\\Home"
+  ],
+  "PreviewInSolutionExplorer": false
+}
